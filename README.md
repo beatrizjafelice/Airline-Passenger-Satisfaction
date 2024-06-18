@@ -2,7 +2,7 @@
 
 (EN)
 
-This assignment was a part of the 2024.1 Data Mining coursework at the Federal University of ABC (UFABC). Special thanks to professor Debora Medeiros :)
+This assignment was completed as part of the 2024.1 Data Mining coursework at the Federal University of ABC (UFABC). Special thanks to professor Debora Medeiros :)
 
 ## Assignment
 1. Obtain a dataset relevant to an area of interest.
